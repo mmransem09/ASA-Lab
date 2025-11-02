@@ -1,5 +1,5 @@
 # Cisco Adaptive Security Appliance (ASA) Lab
-The 2023 Cloudflare DDoS Attack
+The 2023 Cloudflare DDoS Attack<br>
 Introduction
 Distributed Denial-of-Service (DDoS) attacks have become a major threat to Internet stability and organizational security. These attacks aim to overwhelm servers or networks with excessive requests, rendering services inaccessible to legitimate users. In 2023, Cloudflare, a leading web performance and security company, faced one of the largest and most sophisticated DDoS campaigns ever recorded. This report argues that the 2023 Cloudflare attack demonstrates how advanced DDoS operations exploit Internet protocols to maximize disruption and that only automated, large-scale, and collaborative defense systems can effectively mitigate such threats.
 Why the Attack
